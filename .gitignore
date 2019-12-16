@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 listings.csv
 data/NYPD_Complaint_Data_Historic.csv
+data/old_listings_all.csv
+data/old_listings_with_census.csv
